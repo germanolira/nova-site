@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: monospace, Arial, Helvetica, sans-serif;
+}
+
+.image-center {
+    width: 50vh;
+}
+
+.conteudo {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.texto {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.tudo-junto {
+    margin-top: 100px;
+}
